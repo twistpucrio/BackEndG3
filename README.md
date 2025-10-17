@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BackEndG3
 
 ## Getting started
@@ -11,8 +10,7 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 - [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
 - [ ] [Add files using the command line](https://docs.gitlab.com/topics/git/add_files/#add-files-to-a-git-repository) or push an existing Git repository with the following command:
-=======
-# 🛋️ Store Backend API
+# 📦 Store Backend API
 
 Uma API REST completa para uma loja virtual, construída com Node.js, Express e JSON DB.
 
@@ -21,8 +19,7 @@ Uma API REST completa para uma loja virtual, construída com Node.js, Express e 
 Este projeto fornece uma API backend para gerenciar produtos de uma loja virtual, incluindo operações CRUD. Os dados são persistidos em um arquivo JSON usando JSON DB.
 
 
-## 📦 Estrutura do Projeto
->>>>>>> 4ae3f7d (Atualiza README)
+## 📁 Estrutura do Projeto
 
 ```
 ecommerce-backend/

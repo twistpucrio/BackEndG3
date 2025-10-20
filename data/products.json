@@ -525,7 +525,7 @@
     "preco": 1800.00,
     "qtd": 5,
     "descricao": "sofá espaçoso e confortável para sala de estar",
-    "imagem": "IMG/SofaTresLugares.png"
+    "imagem": "IMG/SofaTresLugares.webp"
   },
   {
     "id": 71,
@@ -534,7 +534,7 @@
     "preco": 400.00,
     "qtd": 8,
     "descricao": "mesa de centro moderna feita em madeira maciça",
-    "imagem": "IMG/MesaCentroMadeira.png"
+    "imagem": "IMG/MesaCentroMadeira.webp"
   },
   {
     "id": 72,
@@ -543,7 +543,7 @@
     "preco": 300.00,
     "qtd": 12,
     "descricao": "tapete macio com design geométrico",
-    "imagem": "IMG/TapeteDecorativo.png"
+    "imagem": "IMG/TapeteDecorativo.webp"
   },
   {
     "id": 73,
@@ -552,7 +552,7 @@
     "preco": 950.00,
     "qtd": 6,
     "descricao": "poltrona reclinável ideal para relaxar na sala",
-    "imagem": "IMG/PoltronaReclinavel.png"
+    "imagem": "IMG/PoltronaReclinavel.jpeg"
   },
   {
     "id": 74,
@@ -561,7 +561,7 @@
     "preco": 600.00,
     "qtd": 9,
     "descricao": "estante ampla para sala de estar ou escritório",
-    "imagem": "IMG/EstanteSala.png"
+    "imagem": "IMG/EstanteSala.jpeg"
   },
   {
     "id": 75,
@@ -570,7 +570,7 @@
     "preco": 700.00,
     "qtd": 5,
     "descricao": "banco rústico de madeira ideal para áreas externas",
-    "imagem": "IMG/BancoJardim.png"
+    "imagem": "IMG/BancoJardim.jpeg"
   },
   {
     "id": 76,
@@ -579,7 +579,7 @@
     "preco": 250.00,
     "qtd": 15,
     "descricao": "conjunto de vasos de cerâmica para flores e plantas",
-    "imagem": "IMG/VasosDecorativos.png"
+    "imagem": "IMG/VasosDecorativos.jpeg"
   },
   {
     "id": 77,
@@ -588,7 +588,7 @@
     "preco": 1200.00,
     "qtd": 4,
     "descricao": "mesa de jardim com guarda-sol incluso",
-    "imagem": "IMG/MesaGuardaSol.png"
+    "imagem": "IMG/MesaGuardaSol.jpeg"
   },
   {
     "id": 78,
@@ -597,7 +597,7 @@
     "preco": 950.00,
     "qtd": 6,
     "descricao": "cadeira de balanço confortável para varanda ou jardim",
-    "imagem": "IMG/CadeiraBalancoJardim.png"
+    "imagem": "IMG/CadeiraBalancoJardim.jpeg"
   },
   {
     "id": 79,
@@ -606,7 +606,7 @@
     "preco": 400.00,
     "qtd": 10,
     "descricao": "luzes solares para iluminar o jardim à noite",
-    "imagem": "IMG/IluminacaoSolarJardim.png"
+    "imagem": "IMG/IluminacaoSolarJardim.webp"
   },
   {
     "id": 80,
@@ -615,7 +615,7 @@
     "preco": 2200.00,
     "qtd": 4,
     "descricao": "cama de casal confortável com estrutura de madeira",
-    "imagem": "IMG/CamaCasal.png"
+    "imagem": "IMG/CamaCasal.webp"
   },
   {
     "id": 81,
@@ -624,7 +624,7 @@
     "preco": 2800.00,
     "qtd": 3,
     "descricao": "guarda-roupa espaçoso com portas espelhadas",
-    "imagem": "IMG/GuardaRoupaEspelhado.png"
+    "imagem": "IMG/GuardaRoupaEspelhado.jpeg"
   },
   {
     "id": 82,

@@ -552,7 +552,7 @@
     "preco": 950.00,
     "qtd": 6,
     "descricao": "poltrona reclinável ideal para relaxar na sala",
-    "imagem": "IMG/PoltronaReclinavel.jpeg"
+    "imagem": "IMG/PoltronaReclinavel.jpg"
   },
   {
     "id": 74,
@@ -561,7 +561,7 @@
     "preco": 600.00,
     "qtd": 9,
     "descricao": "estante ampla para sala de estar ou escritório",
-    "imagem": "IMG/EstanteSala.jpeg"
+    "imagem": "IMG/EstanteSala.jpg"
   },
   {
     "id": 75,
@@ -570,7 +570,7 @@
     "preco": 700.00,
     "qtd": 5,
     "descricao": "banco rústico de madeira ideal para áreas externas",
-    "imagem": "IMG/BancoJardim.jpeg"
+    "imagem": "IMG/BancoJardim.jpg"
   },
   {
     "id": 76,
@@ -579,7 +579,7 @@
     "preco": 250.00,
     "qtd": 15,
     "descricao": "conjunto de vasos de cerâmica para flores e plantas",
-    "imagem": "IMG/VasosDecorativos.jpeg"
+    "imagem": "IMG/VasosDecorativos.jpg"
   },
   {
     "id": 77,
@@ -588,7 +588,7 @@
     "preco": 1200.00,
     "qtd": 4,
     "descricao": "mesa de jardim com guarda-sol incluso",
-    "imagem": "IMG/MesaGuardaSol.jpeg"
+    "imagem": "IMG/MesaGuardaSol.jpg"
   },
   {
     "id": 78,
@@ -597,7 +597,7 @@
     "preco": 950.00,
     "qtd": 6,
     "descricao": "cadeira de balanço confortável para varanda ou jardim",
-    "imagem": "IMG/CadeiraBalancoJardim.jpeg"
+    "imagem": "IMG/CadeiraBalancoJardim.jpg"
   },
   {
     "id": 79,
@@ -624,7 +624,7 @@
     "preco": 2800.00,
     "qtd": 3,
     "descricao": "guarda-roupa espaçoso com portas espelhadas",
-    "imagem": "IMG/GuardaRoupaEspelhado.jpeg"
+    "imagem": "IMG/GuardaRoupaEspelhado.jpg"
   },
   {
     "id": 82,

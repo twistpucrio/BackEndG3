@@ -508,7 +508,285 @@
       "qtd": 10,
       "descricao": "Móvel com gavetas para escritório",
       "imagem": "IMG/MovelChique.png"
-    }
-    
+    },
+    {
+      "id": 69,
+      "categoria": "Escritorio",
+      "nome": "Cadeira confortável que reclina",
+      "preco": 800.00,
+      "qtd": 10,
+      "descricao": "Cadeira confortável preta",
+      "imagem": "IMG/cadeira_escritorio.webp"
+    },
+    {
+    "id": 70,
+    "categoria": "Sala",
+    "nome": "Sofá de três lugares",
+    "preco": 1800.00,
+    "qtd": 5,
+    "descricao": "sofá espaçoso e confortável para sala de estar",
+    "imagem": "IMG/SofaTresLugares.png"
+  },
+  {
+    "id": 71,
+    "categoria": "Sala",
+    "nome": "Mesa de centro de madeira",
+    "preco": 400.00,
+    "qtd": 8,
+    "descricao": "mesa de centro moderna feita em madeira maciça",
+    "imagem": "IMG/MesaCentroMadeira.png"
+  },
+  {
+    "id": 72,
+    "categoria": "Sala",
+    "nome": "Tapete decorativo",
+    "preco": 300.00,
+    "qtd": 12,
+    "descricao": "tapete macio com design geométrico",
+    "imagem": "IMG/TapeteDecorativo.png"
+  },
+  {
+    "id": 73,
+    "categoria": "Sala",
+    "nome": "Poltrona reclinável",
+    "preco": 950.00,
+    "qtd": 6,
+    "descricao": "poltrona reclinável ideal para relaxar na sala",
+    "imagem": "IMG/PoltronaReclinavel.png"
+  },
+  {
+    "id": 74,
+    "categoria": "Sala",
+    "nome": "Estante de livros",
+    "preco": 600.00,
+    "qtd": 9,
+    "descricao": "estante ampla para sala de estar ou escritório",
+    "imagem": "IMG/EstanteSala.png"
+  },
+  {
+    "id": 75,
+    "categoria": "Jardim",
+    "nome": "Banco de jardim de madeira",
+    "preco": 700.00,
+    "qtd": 5,
+    "descricao": "banco rústico de madeira ideal para áreas externas",
+    "imagem": "IMG/BancoJardim.png"
+  },
+  {
+    "id": 76,
+    "categoria": "Jardim",
+    "nome": "Conjunto de vasos decorativos",
+    "preco": 250.00,
+    "qtd": 15,
+    "descricao": "conjunto de vasos de cerâmica para flores e plantas",
+    "imagem": "IMG/VasosDecorativos.png"
+  },
+  {
+    "id": 77,
+    "categoria": "Jardim",
+    "nome": "Mesa com guarda-sol",
+    "preco": 1200.00,
+    "qtd": 4,
+    "descricao": "mesa de jardim com guarda-sol incluso",
+    "imagem": "IMG/MesaGuardaSol.png"
+  },
+  {
+    "id": 78,
+    "categoria": "Jardim",
+    "nome": "Cadeira de balanço externa",
+    "preco": 950.00,
+    "qtd": 6,
+    "descricao": "cadeira de balanço confortável para varanda ou jardim",
+    "imagem": "IMG/CadeiraBalancoJardim.png"
+  },
+  {
+    "id": 79,
+    "categoria": "Jardim",
+    "nome": "Conjunto de iluminação solar",
+    "preco": 400.00,
+    "qtd": 10,
+    "descricao": "luzes solares para iluminar o jardim à noite",
+    "imagem": "IMG/IluminacaoSolarJardim.png"
+  },
+  {
+    "id": 80,
+    "categoria": "Quarto",
+    "nome": "Cama de casal",
+    "preco": 2200.00,
+    "qtd": 4,
+    "descricao": "cama de casal confortável com estrutura de madeira",
+    "imagem": "IMG/CamaCasal.png"
+  },
+  {
+    "id": 81,
+    "categoria": "Quarto",
+    "nome": "Guarda-roupa espelhado",
+    "preco": 2800.00,
+    "qtd": 3,
+    "descricao": "guarda-roupa espaçoso com portas espelhadas",
+    "imagem": "IMG/GuardaRoupaEspelhado.png"
+  },
+  {
+    "id": 82,
+    "categoria": "Quarto",
+    "nome": "Criado-mudo moderno",
+    "preco": 350.00,
+    "qtd": 10,
+    "descricao": "criado-mudo compacto e moderno com duas gavetas",
+    "imagem": "IMG/CriadoMudoModerno.png"
+  },
+  {
+    "id": 83,
+    "categoria": "Quarto",
+    "nome": "Luminária de cabeceira",
+    "preco": 180.00,
+    "qtd": 15,
+    "descricao": "luminária pequena ideal para leitura à noite",
+    "imagem": "IMG/LuminariaCabeceira.png"
+  },
+  {
+    "id": 84,
+    "categoria": "Quarto",
+    "nome": "Cômoda de seis gavetas",
+    "preco": 950.00,
+    "qtd": 5,
+    "descricao": "cômoda ampla e elegante para organização do quarto",
+    "imagem": "IMG/ComodaSeisGavetas.png"
+  },
+  {
+    "id": 85,
+    "categoria": "Escritorio",
+    "nome": "Mesa gamer",
+    "preco": 1100.00,
+    "qtd": 7,
+    "descricao": "mesa projetada para gamers, com suporte para monitor e LED",
+    "imagem": "IMG/MesaGamer.png"
+  },
+  {
+    "id": 86,
+    "categoria": "Escritorio",
+    "nome": "Organizador de mesa",
+    "preco": 120.00,
+    "qtd": 25,
+    "descricao": "organizador de mesa com divisórias para materiais de escritório",
+    "imagem": "IMG/OrganizadorMesa.png"
+  },
+  {
+    "id": 87,
+    "categoria": "Escritorio",
+    "nome": "Prateleira suspensa",
+    "preco": 260.00,
+    "qtd": 10,
+    "descricao": "prateleira moderna para livros e decorações",
+    "imagem": "IMG/PrateleiraSuspensa.png"
+  },
+  {
+    "id": 88,
+    "categoria": "Sala",
+    "nome": "Painel para TV",
+    "preco": 850.00,
+    "qtd": 8,
+    "descricao": "painel de parede com espaço para TV e decoração",
+    "imagem": "IMG/PainelTV.png"
+  },
+  {
+    "id": 89,
+    "categoria": "Jardim",
+    "nome": "Rede de descanso",
+    "preco": 320.00,
+    "qtd": 12,
+    "descricao": "rede confortável para descanso no jardim",
+    "imagem": "IMG/RedeDescanso.png"
+  },
+  {
+    "id": 90,
+    "categoria": "Sala",
+    "nome": "Mesa de centro com aquário embutido",
+    "preco": 2500.00,
+    "qtd": 3,
+    "descricao": "mesa de centro que combina design moderno com um pequeno aquário iluminado por LED",
+    "imagem": "IMG/MesaCentroAquario.png"
+  },
+  {
+    "id": 91,
+    "categoria": "Quarto",
+    "nome": "Espelho inteligente",
+    "preco": 1800.00,
+    "qtd": 5,
+    "descricao": "espelho com display integrado que mostra hora, clima e notificações",
+    "imagem": "IMG/EspelhoInteligente.png"
+  },
+  {
+    "id": 92,
+    "categoria": "Jardim",
+    "nome": "Fonte de pedra com luzes coloridas",
+    "preco": 900.00,
+    "qtd": 4,
+    "descricao": "fonte decorativa com iluminação LED que muda de cor",
+    "imagem": "IMG/FontePedraLuzes.png"
+  },
+  {
+    "id": 93,
+    "categoria": "Escritorio",
+    "nome": "Mesa com carregador embutido",
+    "preco": 1400.00,
+    "qtd": 6,
+    "descricao": "mesa de escritório com carregador wireless embutido e porta USB",
+    "imagem": "IMG/MesaCarregadorEmbutido.png"
+  },
+  {
+    "id": 94,
+    "categoria": "Sala",
+    "nome": "Luminária em formato de nuvem",
+    "preco": 320.00,
+    "qtd": 10,
+    "descricao": "luminária criativa em forma de nuvem com luz suave e controle remoto",
+    "imagem": "IMG/LuminariaNuvem.png"
+  },
+  {
+    "id": 95,
+    "categoria": "Quarto",
+    "nome": "Cama flutuante com LEDs",
+    "preco": 4200.00,
+    "qtd": 2,
+    "descricao": "cama com estrutura oculta que cria efeito flutuante e luzes de LED inferiores",
+    "imagem": "IMG/CamaFlutuanteLED.png"
+  },
+  {
+    "id": 96,
+    "categoria": "Jardim",
+    "nome": "Cadeira suspensa em formato de casulo",
+    "preco": 1300.00,
+    "qtd": 5,
+    "descricao": "cadeira suspensa aconchegante, ideal para relaxar ao ar livre",
+    "imagem": "IMG/CadeiraCasulo.png"
+  },
+  {
+    "id": 97,
+    "categoria": "Escritorio",
+    "nome": "Painel acústico decorativo",
+    "preco": 650.00,
+    "qtd": 8,
+    "descricao": "painel de parede que reduz ruídos e adiciona um toque moderno ao ambiente",
+    "imagem": "IMG/PainelAcustico.png"
+  },
+  {
+    "id": 98,
+    "categoria": "Sala",
+    "nome": "Estante giratória",
+    "preco": 880.00,
+    "qtd": 6,
+    "descricao": "estante com base giratória, permitindo mudar o visual da sala com facilidade",
+    "imagem": "IMG/EstanteGiratoria.png"
+  },
+  {
+    "id": 99,
+    "categoria": "Quarto",
+    "nome": "Luminária projetora de constelações",
+    "preco": 270.00,
+    "qtd": 12,
+    "descricao": "luminária que projeta constelações no teto, criando uma atmosfera relaxante",
+    "imagem": "IMG/LuminariaConstelacoes.png"
+  }
   ]
 }
